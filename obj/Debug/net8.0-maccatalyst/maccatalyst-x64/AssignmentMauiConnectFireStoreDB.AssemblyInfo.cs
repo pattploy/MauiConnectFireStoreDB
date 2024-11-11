@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssignmentMauiConnectFireStoreDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+b74d45cda7216e1cf9f9069ff3c5a76035d74495")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dd780a47ea815a701df74884bbbd99741d36de83")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssignmentMauiConnectFireStoreDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssignmentMauiConnectFireStoreDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
